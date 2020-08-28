@@ -1,0 +1,23 @@
+{
+  "name": "NotesApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harishkrishnan24/node-notes-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harishkrishnan24/node-notes-app/issues"
+  },
+  "homepage": "https://github.com/harishkrishnan24/node-notes-app#readme",
+  "dependencies": {
+    "validator": "^10.8.0"
+  }
+}
